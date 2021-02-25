@@ -24,3 +24,5 @@ cmd
 1.pip install PyAutoGui
 
 2.textspammer.py
+
+THANK YOU
